@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "CHU CHU CHU研究中！",
+  "base_artist": "TEAM KAWAII LAB.",
+  "createdAt": "2026-02-13T07:59:08.802394Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CHU CHU CHU研究中！",
+      "artist": "TEAM KAWAII LAB.",
+      "has_synced": true,
+      "path": "select/01_CHU_CHU_CHU研究中!_TEAM_KAWAII_LAB..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CHU CHU CHU 研究中!",
+      "artist": "TEAM KAWAII LAB.",
+      "has_synced": false,
+      "path": "select/pl_01_CHU_CHU_CHU_研究中!_TEAM_KAWAII_LAB..txt"
+    }
+  ]
+}
